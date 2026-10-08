@@ -12,4 +12,4 @@ und erscheint automatisch als Unterpfad dieser Domain (GitHub Pages, Projekt-Sei
 2. Pages im Repo einschalten (Branch `main`, `/ (root)`).
 3. Hier in `index.html` eine Kachel (`<li><a class="game" ...>`) ergänzen.
 
-`CNAME` enthält die Domain und darf nicht gelöscht werden. Einrichtung: siehe `docs/WIX.md` im Repo verliebte-zahlen.
+Eine eigene Domain ist derzeit **nicht** eingetragen (kein `CNAME`). Zum Veröffentlichen zuerst den DNS-Eintrag bei Wix setzen, dann die Domain in Settings, Pages eintragen (GitHub legt `CNAME` dabei selbst an). Einrichtung: siehe `docs/WIX.md` im Repo verliebte-zahlen.
